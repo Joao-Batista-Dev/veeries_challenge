@@ -55,6 +55,12 @@ python src/get_data_ouro.py
 ```
 
 Após isso, o sistema estará pronto para acessar os csv na pasta data:
+```bash
 data/bronze/data_bronze.csv
+```
+```bash
 data/prata/data_prata.csv
+```
+```bash
 data/ouro/data_ouro.csv
+```
