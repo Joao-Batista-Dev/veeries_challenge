@@ -54,7 +54,7 @@ python src/get_data_prata.py
 python src/get_data_ouro.py
 ```
 
-Após isso, o sistema estará pronto para acessar os csv na pasta data:
+Após isso, o sistema estará pronto para ser acessado na pasta data:
 ```bash
 data/bronze/data_bronze.csv
 ```
